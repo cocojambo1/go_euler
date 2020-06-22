@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// 234168
 func main()  {
 	var sum int = 0
 
@@ -10,6 +11,6 @@ func main()  {
 			sum += i
 		}
 	}
-	
+
 	fmt.Println( sum )
 }
